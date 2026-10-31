@@ -1,5 +1,5 @@
 # WHM-TS
-WHM, cPanel fixes and Troubleshooting
+Quick-reference runbooks and step-by-step resolution guides for web hosting systems administration.
 
 # Server Runbooks & Troubleshooting Library
 
