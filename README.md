@@ -1,5 +1,5 @@
 # WHM-TS
-WHM, CP fixes and TS 
+WHM, cPanel fixes and Troubleshooting
 
 # Server Runbooks & Troubleshooting Library
 
