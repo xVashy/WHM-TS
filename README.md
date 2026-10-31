@@ -5,4 +5,4 @@ Quick-reference runbooks and step-by-step resolution guides for web hosting syst
 
 * [cPanel Hostname & SSL Fix](WHM-SSL-Troubleshooting.md)
 * [Exim Mail Queue Flushing](Exim-flush.md)
-* [WP-CLI Core Checksum Audit](#wp-cli-core-checksum-audit)
+* [WP-CLI Core Checksum Audit](WP-CLI-commands.md)
